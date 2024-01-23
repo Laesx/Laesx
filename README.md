@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eric (20 y.o) ! :sunglasses:
+I'm Eric (20 y.o) !
 
 I'm a Multiplatform App Developer from Spain. 🇪🇸
 
