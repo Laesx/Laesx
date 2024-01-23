@@ -33,7 +33,7 @@ I'm a Multiplatform App Developer from Spain. 🇪🇸
 <!-- ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laesx&theme=dark&show_icons=true) -->
 
 
-Feel free to contact me :yum:
+Feel free to contact me:
 <br><br>
 <a href="mailto:laesx03@gmail.com"><img src="https://img.shields.io/badge/Email-laesx03%40gmail.com-orange"></a>
 <a href="https://laesx.ovh/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-laesx.ovh-red"></a>
