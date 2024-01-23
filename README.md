@@ -30,6 +30,7 @@ I'm a Multiplatform App Developer from Spain. 🇪🇸
 
 <img style="margin-top: 50px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Laesx">
 
+<!-- ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laesx&theme=dark&show_icons=true) -->
 
 
 Feel free to contact me :yum:
