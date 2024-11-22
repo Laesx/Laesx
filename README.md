@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Eric (20 y.o) !
+I'm Eric !
 
-I'm a Multiplatform App Developer from Spain. 🇪🇸
+I'm a Software Engineer from Spain. 🇪🇸
 
 :page_with_curl: I'm currently learning:
 <br><br>
